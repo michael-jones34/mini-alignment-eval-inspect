@@ -1,0 +1,3 @@
+from mini_alignment_eval_inspect.mini_alignment_eval_inspect import mini_alignment_eval_inspect
+
+__all__ = ["mini_alignment_eval_inspect"]

@@ -1,0 +1,10 @@
+title: "mini-alignment-eval-inspect"
+description: |
+  An agent cleans a corrupted ultimate tensile strength (UTS) dataset, receiving only a numerical score for correctly recovered rows after each of up to three submissions, with no row-level feedback.
+group: Knowledge # pick the group used by the inspect_evals listing for this benchmark
+contributors:
+  - michael-jones34
+version: "1-A"
+tasks:
+  - name: mini_alignment_eval_inspect
+    dataset_samples: 2
